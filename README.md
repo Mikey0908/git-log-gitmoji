@@ -37,8 +37,8 @@ $ git log --oneline --graph --color=always --decorate | python3 ~/{git-log-gitmo
 
     ```
     :
-    alias l='git log --oneline --graph --color=always --decorate | python3 ~/projects/git/git-log-gitmoji/git-log-gitmoji.py | less -R'
-    alias la='git log --oneline --all --graph --color=always --decorate | python3 ~/projects/git/git-log-gitmoji/git-log-gitmoji.py | less -R'
+    alias l='git log --oneline --graph --color=always --decorate | python3 ~/{git-log-gitmojiをcloneした場所}/git-log-gitmoji.py | less -R'
+    alias la='git log --oneline --all --graph --color=always --decorate | python3 ~/{git-log-gitmojiをcloneした場所}/git-log-gitmoji.py | less -R'
     :
     ```
 
