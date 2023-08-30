@@ -17,8 +17,8 @@ git logでgitmojiを絵文字に変換して表示します。
 ```bash
 $ git clone git@github.com:Mikey0908/git-log-gitmoji.git
 $ brew install python3
-$ pip install color
-$ pip install emoji
+$ pip3 install color
+$ pip3 install emoji
 ```
 
 
